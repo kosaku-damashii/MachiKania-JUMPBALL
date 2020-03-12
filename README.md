@@ -1,2 +1,2 @@
 # MachiKania-JUMPBALL
-JUMP BALL
+Bouncing ball
